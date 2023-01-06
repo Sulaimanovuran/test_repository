@@ -9,3 +9,8 @@ for i in range(10):
 print('hello')
 
 print('world')
+
+
+
+if 5 % 3 == 0:
+    print('lol')
